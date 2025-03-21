@@ -1,0 +1,49 @@
+
+# Entorno
+
+En esta ocasión vamos a trabajar con un IDE como visual code y un framework como Anaconda
+
+
+## Versión de python 
+
+Para conocer que versión de python usar podemos tener esta página de referencia https://docs.python.org/3/ donde podemos encontrar las distintas versiones.
+
+![[Pasted image 20250321234915.png]]
+
+
+## Instalación de Anaconda
+
+Utilizaremos Anaconda que es una distribución gratuita y de código abierto ( un conjunto de software preempaquetado, muchas librerías o paquetes adicionales ) que proporciona un entorno para trabajar con Python y R de manera más eficiente en áreas de análisis de datos, ciencias de datos y machine learning.
+
+
+
+Para instalar Anaconda [Enlace](https://www.anaconda.com/download/success) y [Documentacion](https://www.anaconda.com/docs/getting-started/anaconda/install#macos-linux-installation:how-do-i-verify-my-installers-integrity)
+
+
+Si no queremos el entorno base podemos desactivarlo:
+
+* conda config --set auto_activate_base false
+
+
+### Comandos en Anacanda
+
+* https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+
+
+![[conda-cheatsheet.pdf]]
+
+
+
+* Lanzar entorno gráfico
+	* anaconda-navigator
+* Creando entorno virtuales
+	* conda create --name [nombre_del_entorno] python=[3.8]
+* Activar entorno virtual 
+	* conda activate [nombre_del_entorno]
+* Desactivar entorno virtual
+	* conda deactivate
+* instalar paquetes **dentro del entorno virtual**
+	* conda install numpy pandas matplotlib
+	* pip install tensorflow
+
+
