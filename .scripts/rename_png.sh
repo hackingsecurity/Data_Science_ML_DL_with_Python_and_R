@@ -12,7 +12,7 @@ while read -r dir; do
 		if [[ "$base_file" == Pasted* ]]; then
 			if [[ "$base_file" == *" "* ]]; then
 				new_name_file=$(echo "$file" | sed 's/ /_/g')
-				echo "old file: $file ---- new file: $new_name_file"
+				echo "ENCONTRAD --> old file: $file ---- new file: $new_name_file"
 				mv "$file" "$new_name_file"
 			fi
 		fi

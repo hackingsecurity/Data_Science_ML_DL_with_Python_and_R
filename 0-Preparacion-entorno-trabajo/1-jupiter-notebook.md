@@ -35,3 +35,5 @@ También podemos ver los distintos bloques que podemos crear
 
 
 ## Entorno outfile
+
+![](adjuntos/Pasted_image_20250323180109.png)
