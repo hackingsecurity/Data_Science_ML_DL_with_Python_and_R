@@ -7,7 +7,7 @@
 
 Lanzar Anaconda navigator
 
-![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152129.png)
+![](adjuntos/Pasted_image_20250323152129.png)
 Podemos situarnos donde queramos y crear el fichero correspondiente
 
 ![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152109.png)
