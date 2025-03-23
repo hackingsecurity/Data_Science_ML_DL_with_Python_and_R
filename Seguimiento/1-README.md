@@ -1,10 +1,10 @@
 
 
-# Asignatura x...
+# Asignatura python para ciberseguridad con ML y DL
 
 El objetivo de este documento es la comprensión y resaltar los ficheros más importante que componente esta carpeta.
 
-## Road map ...
+## Road map Python con ML y DL con enfocque en ciberseguridad
 
 Este fichero es de los más importante, ya que nos ayuda a comprender la lógica de los ficheros y de como estudiarlos.
 

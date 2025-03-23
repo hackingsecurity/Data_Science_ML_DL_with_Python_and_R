@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3673eee85c9e5719","type":"text","text":"","x":-280,"y":3080,"width":250,"height":60},
+		{"id":"e2befb5650b438c5","type":"file","file":"Seguimiento/3.0-ROAD_MAP_PYTHON.canvas","x":-1760,"y":1080,"width":1181,"height":864}
+	],
+	"edges":[]
+}

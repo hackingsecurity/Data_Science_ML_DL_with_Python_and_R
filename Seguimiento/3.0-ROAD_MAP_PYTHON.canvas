@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"3673eee85c9e5719","type":"text","text":"","x":-280,"y":3080,"width":250,"height":60},
+		{"id":"94361dfb7f11a865","type":"text","text":"ENTORNO DE TRABAJO","x":-260,"y":1220,"width":250,"height":60},
+		{"id":"417390a3eca1a823","type":"text","text":"PROGRACION PYTHON","x":-420,"y":2440,"width":250,"height":60},
+		{"id":"91cd03d5a0009daf","type":"file","file":"0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md","x":-1080,"y":920,"width":420,"height":440},
+		{"id":"b47cb724c11d7778","type":"file","file":"0-Preparacion-entorno-trabajo/1-jupiter-notebook.md","x":380,"y":920,"width":406,"height":480},
+		{"id":"f1b3c848b40ea75f","x":-335,"y":560,"width":400,"height":400,"type":"file","file":"0-Preparacion-entorno-trabajo/2-visual-studio-code.md"}
+	],
+	"edges":[
+		{"id":"e728684fe80677b0","fromNode":"91cd03d5a0009daf","fromSide":"right","toNode":"94361dfb7f11a865","toSide":"left"},
+		{"id":"4b096fd45aaf8f14","fromNode":"b47cb724c11d7778","fromSide":"left","toNode":"94361dfb7f11a865","toSide":"right"},
+		{"id":"a227836588e8a494","fromNode":"94361dfb7f11a865","fromSide":"bottom","toNode":"417390a3eca1a823","toSide":"top"},
+		{"id":"f907ef8650ef5d54","fromNode":"f1b3c848b40ea75f","fromSide":"bottom","toNode":"94361dfb7f11a865","toSide":"top"}
+	]
+}

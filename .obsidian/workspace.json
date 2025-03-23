@@ -14,10 +14,25 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Files"
+              "title": "Mind Map of 2-visual-studio-code"
+            }
+          },
+          {
+            "id": "98a9f91c60f10770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-visual-studio-code"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,37 +181,49 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4dcd8b1c126402cc",
+  "active": "98a9f91c60f10770",
   "lastOpenFiles": [
+    "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
+    "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
+    "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
+    "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323232454.png",
+    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
+    "2-Programacion-python/organizacion/organizacion.md",
+    "2-Programacion-python/01-python_core/01-syntax_and_semantics.ipynb",
+    "2-Programacion-python/01-python_core/01-Syntax_and_semantics.ipynb",
+    "2-Programacion-python/01-python_core/Untitled.ipynb",
+    "2-Programacion-python/01-python_core/01_Syntax_and_Semantics.ipynb.md",
+    "2-Programacion-python/01-python_core",
+    "2-Programacion-python/organizacion/adjuntos/Pasted image 20250323224623.png",
+    "2-Programacion-python/organizacion/adjuntos",
+    "2-Programacion-python/organizacion",
+    "Seguimiento/2-TASKS.md",
+    "Seguimiento/3.2-ROAD_MAP_PYTHON_DEEP_LEARNING.canvas",
+    "Seguimiento/3.3-ROAD_MAP_PYTHON_ML_DP_ENFOQUE_CIBERSEGURIDAD.canvas",
+    "Seguimiento/3.1-ROAD_MAP_PYTHON_MACHINE_LEARNING.canvas",
+    "Seguimiento/1-README.md",
+    "Seguimiento/3-ROAD_MAP_PYTHON.canvas",
+    "Seguimiento/3.0-ROAD_MAP_PYTHON_ML_DP_ENFOQUE_CIBERSEGURIDAD.canvas",
+    "Seguimiento/3.0-ROAD_MAP_PYTHON (Copy).canvas",
+    "Seguimiento/3.0-ROAD_MAP_PYTHON_DEEP_LEARNING.canvas",
+    "Seguimiento/3.1-ROAD_MAP_PYTHON_ML.canvas",
+    "Seguimiento/3-ROAD_MAP_PYTHON_ML.canvas",
+    "README.md",
+    "Seguimiento/5-SCHEMES.md",
+    "Seguimiento/4-PREPROCESSING.md",
+    "2-Programacion-python",
+    "Seguimiento/0-RECOMENDACIONES.md",
+    "Seguimiento/adjuntos/Pasted image 20250323204558.png",
+    "Seguimiento/adjuntos/Pasted image 20250323204516.png",
+    "Untitled.ipynb",
+    "Pasted.md",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160445.png",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160453.png",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323174523.png",
-    "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323180109.png",
-    "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323180109.png",
-    "plantilla-seguimiento/0-RECOMENDACIONES.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323174523.png",
-    "plantilla-seguimiento/adjuntos/Pasted_image_20250323160437.png",
-    "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323153037.png",
-    "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250321234915.png",
-    "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323154315.png",
     "0-Preparacion-entorno-trabajo/sedpsx8rG",
-    "Pasted.md",
-    "plantilla-seguimiento/adjuntos",
-    "Untitled",
-    "plantilla-seguimiento/1-README.md",
-    "plantilla-seguimiento/2-TASKS.md",
-    "plantilla-seguimiento/3-ROAD_MAP_X.canvas",
-    "plantilla-seguimiento/4-PREPROCESSING.md",
-    "plantilla-seguimiento/5-SCHEMES.md",
-    "README.md",
-    "python.ipynb",
-    "Untitled.ipynb",
-    "1-casos-practicos/datasets/trec07p/data/inmail.13409",
-    "1-casos-practicos/datasets/trec07p/data/inmail.13408",
-    "1-casos-practicos/datasets/trec07p/data/inmail.13407",
-    "1-casos-practicos/datasets/trec07p/data/inmail.13406",
-    "1-casos-practicos/datasets/trec07p/data/inmail.13405"
+    "Seguimiento/adjuntos"
   ]
 }
