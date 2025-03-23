@@ -8,21 +8,22 @@
 Lanzar Anaconda navigator
 
 ![](adjuntos/Pasted_image_20250323152129.png)
+
 Podemos situarnos donde queramos y crear el fichero correspondiente
 
-![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152109.png)
+![](adjuntos/Pasted_image_20250323152109.png)
 
 Podemos ver los entorno virtuales para trabajar
 
-![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152452.png)
+![](adjuntos/Pasted_image_20250323152452.png)
 
 Debemos mirar que la versión de python con la que queremos trabajar
 
-![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323153037.png)
+![](adjuntos/Pasted_image_20250323153037.png)
 
 También podemos ver los distintos bloques que podemos crear
 
-![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152729.png)
+![](adjuntos/Pasted_image_20250323152729.png)
 
 * Tipo Markdown
 * Tipo codigo para ejecutar python

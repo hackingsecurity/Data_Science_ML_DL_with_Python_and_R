@@ -10,7 +10,7 @@ Para conocer que versión de python usar podemos tener esta página de referenci
 
 *  Importante conocer la versión que queremos usar
 
-![](0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250321234915.png)
+![](adjuntos/Pasted_image_20250321234915.png)
 
 
 ## Instalación de Anaconda
@@ -31,8 +31,8 @@ Si no queremos el entorno base podemos desactivarlo:
 
 * https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
 
-![](0-Preparacion-entorno-trabajo/adjuntos/conda-cheatsheet.pdf)
 
+![](adjuntos/conda-cheatsheet.pdf)
 
 
 **ENTORNO GRÁFICO**

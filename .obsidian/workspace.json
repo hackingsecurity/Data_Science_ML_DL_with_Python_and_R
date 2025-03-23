@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
+                "file": "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-jupiter-notebook"
+              "title": "0-entorno-de-trabajo"
             }
           }
         ],
@@ -183,9 +183,9 @@
   },
   "active": "19db466f80d64617",
   "lastOpenFiles": [
+    "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
     "plantilla-seguimiento/0-RECOMENDACIONES.md",
     "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
-    "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323174523.png",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160453.png",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160445.png",

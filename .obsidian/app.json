@@ -5,5 +5,5 @@
   "alwaysUpdateLinks": true,
   "uriCallbacks": false,
   "showLineNumber": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
