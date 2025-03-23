@@ -1,5 +1,8 @@
 {
   "attachmentFolderPath": "./adjuntos",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "uriCallbacks": false,
+  "showLineNumber": false
 }

@@ -10,7 +10,7 @@ Para conocer que versión de python usar podemos tener esta página de referenci
 
 *  Importante conocer la versión que queremos usar
 
-![Pasted image 20250321234915.png](Pasted%20image%2020250321234915.png)
+![](Pasted_image_20250321234915.png)
 
 
 ## Instalación de Anaconda
