@@ -4,5 +4,6 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "uriCallbacks": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newLinkFormat": "absolute"
 }

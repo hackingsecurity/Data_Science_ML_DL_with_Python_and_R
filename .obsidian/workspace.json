@@ -14,7 +14,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of 1-jupiter-notebook"
+              "title": "Mind Map of 0-RECOMENDACIONES"
             }
           },
           {
@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
+                "file": "plantilla-seguimiento/0-RECOMENDACIONES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-jupiter-notebook"
+              "title": "0-RECOMENDACIONES"
             }
           }
         ],
@@ -183,6 +183,9 @@
   },
   "active": "19db466f80d64617",
   "lastOpenFiles": [
+    "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
+    "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
+    "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323174523.png",
     "plantilla-seguimiento/0-RECOMENDACIONES.md",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160453.png",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160445.png",
@@ -193,10 +196,7 @@
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152729.png",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152452.png",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323152129.png",
-    "0-Preparacion-entorno-trabajo/adjuntos/Pasted_image_20250323155800.png",
     "0-Preparacion-entorno-trabajo/sedpsx8rG",
-    "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
-    "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
     "Pasted.md",
     "plantilla-seguimiento/adjuntos",
     "Untitled",
