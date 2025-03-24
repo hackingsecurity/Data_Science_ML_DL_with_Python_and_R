@@ -21,14 +21,19 @@
             "id": "98a9f91c60f10770",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
-                "mode": "source",
-                "source": false
+                "file": "Seguimiento/2-TASKS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2-visual-studio-code"
+              "icon": "lucide-trello",
+              "title": "2-TASKS"
             }
           }
         ],
@@ -183,11 +188,11 @@
   },
   "active": "98a9f91c60f10770",
   "lastOpenFiles": [
+    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
+    "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
     "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
     "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
-    "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323232454.png",
-    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
     "2-Programacion-python/organizacion/organizacion.md",
     "2-Programacion-python/01-python_core/01-syntax_and_semantics.ipynb",
     "2-Programacion-python/01-python_core/01-Syntax_and_semantics.ipynb",

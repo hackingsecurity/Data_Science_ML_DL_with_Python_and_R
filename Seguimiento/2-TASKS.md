@@ -12,7 +12,9 @@ kanban-plugin: board
 ## FOLLOW-UP
 
 - [ ] Plataforma
-- [ ] Cursos
+- [ ] Curso Udemy:
+	- [ ] Video 21
+		- [ ] Funciones: Parámetros, Argumentos,etc
 - [ ] Certificación
 - [ ] Asignatura
 - [ ] etc
