@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] Certificación
 - [ ] Asignatura
 - [ ] etc
+- [ ] 
 
 
 ## TO DO

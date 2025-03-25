@@ -21,19 +21,14 @@
             "id": "98a9f91c60f10770",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Seguimiento/2-TASKS.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "2-Programacion-python/organizacion/organizacion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "2-TASKS"
+              "icon": "lucide-file",
+              "title": "organizacion"
             }
           }
         ],
@@ -188,6 +183,7 @@
   },
   "active": "98a9f91c60f10770",
   "lastOpenFiles": [
+    "Seguimiento/2-TASKS.md",
     "requirements.txt",
     "2-Programacion-python/requirements.txt",
     "2-Programacion-python/README.md",
@@ -205,7 +201,6 @@
     "2-Programacion-python/organizacion/adjuntos/Pasted image 20250323224623.png",
     "2-Programacion-python/organizacion/adjuntos",
     "2-Programacion-python/organizacion",
-    "Seguimiento/2-TASKS.md",
     "Seguimiento/3.2-ROAD_MAP_PYTHON_DEEP_LEARNING.canvas",
     "Seguimiento/3.3-ROAD_MAP_PYTHON_ML_DP_ENFOQUE_CIBERSEGURIDAD.canvas",
     "Seguimiento/3.1-ROAD_MAP_PYTHON_MACHINE_LEARNING.canvas",
