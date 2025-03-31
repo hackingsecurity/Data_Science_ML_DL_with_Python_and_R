@@ -4,35 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "75a3aabd695c40e8",
+        "id": "b776e65f971b5492",
         "type": "tabs",
         "children": [
           {
-            "id": "7b0742da412c0ba7",
+            "id": "635cd679401b542c",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of 2-visual-studio-code"
-            }
-          },
-          {
-            "id": "98a9f91c60f10770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2-Programacion-python/organizacion/organizacion.md",
-                "mode": "source",
-                "source": false
+                "file": "Seguimiento/2-TASKS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "organizacion"
+              "icon": "lucide-trello",
+              "title": "2-TASKS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 388.5
   },
   "right": {
     "id": "d9ae48af1d2258cf",
@@ -181,26 +175,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "98a9f91c60f10770",
+  "active": "635cd679401b542c",
   "lastOpenFiles": [
+    "2-Programacion-python/organizacion/organizacion.md",
+    "2-Programacion-python/01-python_core/__pycache__/modulo1.cpython-312.pyc",
+    "2-Programacion-python/01-python_core/__pycache__",
+    "2-Programacion-python/01-python_core/modulo1.py",
+    "2-Programacion-python/modulo1.py",
+    "2-Programacion-python/01-python_core/Untitled.md",
     "Seguimiento/2-TASKS.md",
+    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
+    "Seguimiento/adjuntos/Pasted image 20250323204558.png",
+    "Seguimiento/0-RECOMENDACIONES.md",
+    "Seguimiento/adjuntos/Pasted image 20250323204516.png",
+    "README.md",
+    "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
     "requirements.txt",
     "2-Programacion-python/requirements.txt",
     "2-Programacion-python/README.md",
-    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
     "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
     "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
-    "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250323232454.png",
-    "2-Programacion-python/organizacion/organizacion.md",
     "2-Programacion-python/01-python_core/01-syntax_and_semantics.ipynb",
     "2-Programacion-python/01-python_core/01-Syntax_and_semantics.ipynb",
     "2-Programacion-python/01-python_core/Untitled.ipynb",
     "2-Programacion-python/01-python_core/01_Syntax_and_Semantics.ipynb.md",
     "2-Programacion-python/01-python_core",
     "2-Programacion-python/organizacion/adjuntos/Pasted image 20250323224623.png",
-    "2-Programacion-python/organizacion/adjuntos",
-    "2-Programacion-python/organizacion",
     "Seguimiento/3.2-ROAD_MAP_PYTHON_DEEP_LEARNING.canvas",
     "Seguimiento/3.3-ROAD_MAP_PYTHON_ML_DP_ENFOQUE_CIBERSEGURIDAD.canvas",
     "Seguimiento/3.1-ROAD_MAP_PYTHON_MACHINE_LEARNING.canvas",
@@ -211,14 +212,8 @@
     "Seguimiento/3.0-ROAD_MAP_PYTHON_DEEP_LEARNING.canvas",
     "Seguimiento/3.1-ROAD_MAP_PYTHON_ML.canvas",
     "Seguimiento/3-ROAD_MAP_PYTHON_ML.canvas",
-    "README.md",
     "Seguimiento/5-SCHEMES.md",
     "Seguimiento/4-PREPROCESSING.md",
-    "2-Programacion-python",
-    "Seguimiento/0-RECOMENDACIONES.md",
-    "Seguimiento/adjuntos/Pasted image 20250323204558.png",
-    "Seguimiento/adjuntos/Pasted image 20250323204516.png",
-    "Untitled.ipynb",
     "Pasted.md",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160445.png",
     "plantilla-seguimiento/adjuntos/Pasted_image_20250323160453.png",

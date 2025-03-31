@@ -4,6 +4,15 @@
 Para trabajar con Obsidian debemos tener en cuenta algunas cosas
 
 
+## Themes
+
+
+* Elegance
+
+
+![](adjuntos/Pasted%20image%2020250323204558.png)
+
+
 ## Plugins
 
 Plugins que son necesarios para obsidian
@@ -23,7 +32,6 @@ Configuraciones iniciales
 
 ![](adjuntos/Pasted%20image%2020250323204516.png)
 
-![](adjuntos/Pasted%20image%2020250323204558.png)
 
 
 

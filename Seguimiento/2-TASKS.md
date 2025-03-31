@@ -13,8 +13,8 @@ kanban-plugin: board
 
 - [ ] Plataforma
 - [ ] Curso Udemy:
-	- [ ] Video 21
-		- [ ] Funciones: Parámetros, Argumentos,etc
+	- [ ] Fundamentos e introduccion
+		- [ ] Video 27 minuto 5.
 - [ ] Certificación
 - [ ] Asignatura
 - [ ] etc
