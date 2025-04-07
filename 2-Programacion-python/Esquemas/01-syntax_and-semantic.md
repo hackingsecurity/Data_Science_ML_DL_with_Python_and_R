@@ -115,5 +115,28 @@
 	* from paquete.moduloY import test_func2
 
 
+#### Instalación de paquetes externos
+
+* pypi.org
+* pip install pandas\==3.1.0 -> Instalamos una versión concreta
+* pip list -> ver los paquetes instalados
+* pip  show pandas -> más información específica del paquete
+* pip install -r riquerements.txt -> instalación de paquetes necesarios
+
+
+
+#### Desintalar paquetes
+
+
+* pip uninstall pycrytodome
+
+
+
+
+## Manejo de excepciones en python
+
+
+* try:  [# codigo a capturar] except NameError: pass except TypeError: pass except: print("Manejar la excepcion")
+* raise Exception(f"creamos nuestra propia excepcion {var1}")
 
 

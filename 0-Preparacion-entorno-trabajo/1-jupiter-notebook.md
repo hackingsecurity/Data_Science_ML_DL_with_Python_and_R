@@ -27,7 +27,7 @@ También podemos ver los distintos bloques que podemos crear
 
 * Tipo Markdown
 * Tipo codigo para ejecutar python
-* Raw -> textp som ejecutar ni renderizar, útil para exportar
+* Raw -> texto sin ejecutar ni renderizar, útil para exportar
 	* no se ejecuta por tanto no tiene salida
 	* No se renderiza, es decir no se ve visualmente
 	* Flujos de trabajo que implica exportaciones complejas
@@ -35,4 +35,7 @@ También podemos ver los distintos bloques que podemos crear
 
 
 ## Entorno outfile
+
+
+
 
