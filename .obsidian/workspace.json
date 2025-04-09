@@ -11,14 +11,19 @@
             "id": "635cd679401b542c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2-Programacion-python/Esquemas/01-syntax_and-semantic.md",
-                "mode": "source",
-                "source": false
+                "file": "Seguimiento/2-TASKS.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "01-syntax_and-semantic"
+              "icon": "lucide-trello",
+              "title": "2-TASKS"
             }
           }
         ]
@@ -172,35 +177,35 @@
   },
   "active": "635cd679401b542c",
   "lastOpenFiles": [
+    "3-Proyectos-python/1-Hacking-con-buscadores/exportados_por_tag/ninjadorks.py",
+    "3-Proyectos-python/1-Hacking-con-buscadores/exportados_por_tag/googlesearch.py",
+    "3-Proyectos-python/1-Hacking-con-buscadores/exportados_por_tag",
+    "3-Proyectos-python/1-Hacking-con-buscadores/exportados_por_tag/googlesearh.py",
+    "3-Proyectos-python/1-Hacking-con-buscadores/exportados",
+    "3-Proyectos-python/1-Hacking-con-buscadores/limpio.py",
+    "3-Proyectos-python/1-Hacking-con-buscadores/1-hacking-buscadores_limpio_2.ipynb",
+    "3-Proyectos-python/1-Hacking-con-buscadores/1-hacking-buscadores_limpio.py",
+    "3-Proyectos-python/1-Hacking-con-buscadores/1-hacking-buscadores.py",
+    "Seguimiento/1-README.md",
+    "Seguimiento/0-RECOMENDACIONES.md",
+    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
+    "2-Programacion-python/Esquemas/01-syntax_and-semantic.md",
+    "2-Programacion-python/Esquemas/02-.md",
     "3-Proyectos-python/1-Hacking-con-buscadores/__pycache__/credenciales_api.cpython-311.pyc",
     "3-Proyectos-python/1-Hacking-con-buscadores/__pycache__",
-    "3-Proyectos-python/1-Hacking-con-buscadores/credenciales_api.py",
-    "3-Proyectos-python/1-Hacking-con-buscadores/credenciales_api.txt",
-    "2-Programacion-python/Esquemas/02-.md",
     "0-Preparacion-entorno-trabajo/2-visual-studio-code.md",
-    "3-Proyectos-python/1-Hacking-con-buscadores/requirements.txt",
-    "3-Proyectos-python/1-Hacking-con-buscadores/1-hacking-buscadores.ipynb",
-    "3-Proyectos-python/1-Hacking-con-buscadores",
-    "3-Proyectos-python",
-    "2-Programacion-python/3-Proyectos-python",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250407225942.png",
     "0-Preparacion-entorno-trabajo/0-entorno-de-trabajo.md",
-    "entorno.yml",
     "0-Preparacion-entorno-trabajo/1-jupiter-notebook.md",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250407225547.png",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250407225455.png",
     "0-Preparacion-entorno-trabajo/adjuntos/Pasted image 20250407225421.png",
-    "2-Programacion-python/Esquemas/01-syntax_and-semantic.md",
-    "Seguimiento/0-RECOMENDACIONES.md",
     "2-Programacion-python/organizacion/organizacion.md",
     "2-Programacion-python/Untitled.md",
-    "2-Programacion-python/01-python_core/paquete/__pycache__/modulo2.cpython-312.pyc",
     "2-Programacion-python/01-python_core/paquete/Untitled.md",
     "Seguimiento/5-SCHEMES.md",
     "Seguimiento/2-TASKS.md",
-    "Seguimiento/1-README.md",
     "2-Programacion-python/01-python_core/Untitled.md",
-    "Seguimiento/3.0-ROAD_MAP_PYTHON.canvas",
     "Seguimiento/adjuntos/Pasted image 20250323204558.png",
     "Seguimiento/adjuntos/Pasted image 20250323204516.png",
     "README.md",

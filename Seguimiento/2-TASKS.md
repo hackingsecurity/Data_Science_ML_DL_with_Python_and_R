@@ -14,7 +14,7 @@ kanban-plugin: board
 - [ ] Plataforma
 - [ ] Curso Udemy:
 	- [ ] Fundamentos e introduccion
-		- [ ] Video 27 minuto 5.
+		- [ ] Video 38 minuto 5.
 - [ ] Certificación
 - [ ] Asignatura
 - [ ] etc
